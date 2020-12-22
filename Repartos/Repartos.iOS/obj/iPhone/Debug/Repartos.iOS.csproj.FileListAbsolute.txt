@@ -1,0 +1,126 @@
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Repartos.iOS.exe
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Repartos.iOS.pdb
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Repartos.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Repartos.pdb
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\build-signature\signature
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\optimized\
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.csprojAssemblyReference.cache
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.csproj.CoreCompileInputs.cache
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.csproj.CopyComplete
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.exe
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Repartos.iOS.exe
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Repartos.iOS.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Repartos.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Repartos.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\build-signature\signature
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\optimized\
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.csprojAssemblyReference.cache
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.csproj.CopyComplete
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.exe
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos.iOS\obj\iPhone\Debug\Repartos.iOS.pdb

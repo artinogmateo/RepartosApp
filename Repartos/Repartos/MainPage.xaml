@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Repartos"
+             x:Class="Repartos.MainPage">
+
+    <StackLayout Margin="0,30,0,0">
+        <Image Source="dogs.jpg" WidthRequest="200" HeightRequest="200"/>
+
+
+        <Button Text="Ver repartidores" HorizontalOptions="FillAndExpand" BackgroundColor="Yellow"
+                x:Name="btnmostrar"/>
+
+        <Button Text="Nuevo repartidor" HorizontalOptions="FillAndExpand" BackgroundColor="Yellow"
+                x:Name="btnnuevo"/>
+
+        <!--<StackLayout Orientation="Horizontal" BackgroundColor="Orange">-->
+            <Label Text="Buscar por documento de repartidor" />
+            
+            <Entry x:Name="cajacodigo" HorizontalOptions="FillAndExpand"/>
+
+        <!--</StackLayout>-->
+
+        <Button Text="Eliminar repartidor" x:Name="btneliminar" 
+                />
+
+        <Button Text="Modificar datos" x:Name="btnmodificar" />
+
+
+    </StackLayout>
+
+</ContentPage>

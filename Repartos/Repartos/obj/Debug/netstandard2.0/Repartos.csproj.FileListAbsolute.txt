@@ -1,0 +1,33 @@
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\bin\Debug\netstandard2.0\Repartos.deps.json
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\bin\Debug\netstandard2.0\Repartos.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\bin\Debug\netstandard2.0\ref\Repartos.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\bin\Debug\netstandard2.0\Repartos.pdb
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.csprojAssemblyReference.cache
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.AssemblyInfoInputs.cache
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.AssemblyInfo.cs
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.csproj.CoreCompileInputs.cache
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\XamlC.stamp
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\ref\Repartos.dll
+D:\2020\_ ITSC_2020 covid-19\Practica Profesionalizante II\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\bin\Debug\netstandard2.0\Repartos.deps.json
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\bin\Debug\netstandard2.0\Repartos.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\bin\Debug\netstandard2.0\ref\Repartos.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\bin\Debug\netstandard2.0\Repartos.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.AssemblyInfoInputs.cache
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.AssemblyInfo.cs
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\ref\Repartos.dll
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.pdb
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Views\AgregarRepartidor.xaml.g.cs
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Views\EliminarRepartidor.xaml.g.cs
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Views\ModificarRepartidor.xaml.g.cs
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Views\Repartidores.xaml.g.cs
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Repartos.csprojAssemblyReference.cache
+C:\Users\MATEO\Desktop\nov-dic XamarinForms\Repartos\Repartos\Repartos\obj\Debug\netstandard2.0\Views\Repartidores\Repartidor.xaml.g.cs
