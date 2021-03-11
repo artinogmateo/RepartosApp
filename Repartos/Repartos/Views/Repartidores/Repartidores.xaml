@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Repartos.Views.Repartidores.Repartidores">
+
+    <AbsoluteLayout BackgroundColor="#CFD8DC">
+
+        <StackLayout>
+
+        </StackLayout>
+
+        <ScrollView 
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="SizeProportional">
+
+            <StackLayout Margin="10,10,5,10">
+
+                <Label 
+                    Text="REPARTIDORES"
+                    FontSize="30"
+                    TextColor="#1F618D"
+                    FontAttributes="Bold"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center"
+                    AbsoluteLayout.LayoutBounds="5,5,0,0"
+                    AbsoluteLayout.LayoutFlags="SizeProportional" 
+                    Padding="0,30,0,0"
+                />
+
+                <Label 
+                    x:Name="lblMensaje"
+                    IsVisible="False"
+                />
+
+                <ListView 
+                    x:Name="listaRepartidores"
+                    ItemTapped="listaRepartidores_ItemTapped"
+                    SeparatorColor="Black"
+                    HasUnevenRows="True"
+                    Margin="0,0,0,0"
+                    BackgroundColor="Transparent">
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell Tapped="ViewCell_Tapped" IsContextActionsLegacyModeEnabled="True" >
+
+                                <ViewCell.ContextActions>
+                                    <MenuItem
+                                        x:Name="actModificar"
+                                        Text="Modificar"
+                                        CommandParameter="{Binding IdRepartidor}"
+                                        Clicked="actModificar_Clicked"
+                                    />
+                                    <MenuItem
+                                        x:Name="actBaja"
+                                        Text="Dar de baja"
+                                        CommandParameter="{Binding IdRepartidor}"
+                                        Clicked="actBaja_Clicked"
+                                    />
+                                </ViewCell.ContextActions>
+
+                                <Grid
+                                    BackgroundColor="#BCBFBF" 
+                                    Padding="0,0,0,0" 
+                                    RowSpacing="2" 
+                                    Margin="0,0,0,0" >
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="50*"></RowDefinition>
+                                        <RowDefinition Height="20*"></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <Label
+                                        Text="Nombre y Apellido" 
+                                        FontSize="Micro"
+                                        Padding="15,2,0,0" 
+                                        Grid.Row="0" 
+                                        VerticalOptions="StartAndExpand"
+                                    />
+
+                                    <StackLayout Orientation="Horizontal" Padding="15,0,0,0" VerticalOptions="EndAndExpand">
+                                        
+                                        <Label 
+                                            Text="{Binding Nombre}" 
+                                            Grid.Row="1" 
+                                            FontSize="Medium"
+                                        />
+
+                                        <Label 
+                                            Text="{Binding Apellido}"
+                                            FontSize="Medium"
+                                            Margin="0,0,5,0"
+                                            Grid.Row="1"
+                                        />
+                                    </StackLayout>
+                                    
+                                </Grid>
+                            </ViewCell>
+
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+                </ListView>
+            </StackLayout>
+        </ScrollView>
+
+        <ImageButton
+            x:Name="btnNuevoRepartidor"
+            AbsoluteLayout.LayoutBounds="0.95,0.95,80,80"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            BackgroundColor="DarkSlateGray"
+            Opacity="0.7"
+            CornerRadius="50"
+            HeightRequest="60"
+            WidthRequest="80"
+            Clicked="btnNuevoRepartidor_Clicked"
+        />
+
+    </AbsoluteLayout>
+</ContentPage>

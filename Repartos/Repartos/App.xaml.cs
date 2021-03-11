@@ -6,6 +6,7 @@ namespace Repartos
 {
     public partial class App : Application
     {
+        public static MasterDetailPage MasterDet { get; set; }
         public App()
         {
             InitializeComponent();
@@ -15,14 +16,17 @@ namespace Repartos
 
         protected override void OnStart()
         {
+
         }
 
         protected override void OnSleep()
         {
+
         }
 
         protected override void OnResume()
         {
+
         }
     }
 }

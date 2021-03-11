@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:Repartos.ViewModels" 
+             x:Class="Repartos.Views.Repartidores.NuevoRepartidor">
+
+    <ContentPage.BindingContext>
+        <viewmodels:RepartidorViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="#CFD8DC" Padding="35,5,35,0">
+                <Label 
+                    x:Name="lblTitulo"
+                    Text="Ingresar datos del nuevo Repartidor"
+                    FontSize="Medium"
+                    HorizontalOptions="CenterAndExpand" 
+                    Padding="0,30,0,20"
+                />
+
+                <Label 
+                    x:Name="lblNombre" Text="Nombre" FontSize="Micro" IsVisible="True"
+                />
+
+                <Entry 
+                    x:Name="txtNombre"
+                    Placeholder="Nombre Repartidor"
+                    MaxLength="30" 
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand"
+                />
+
+                <Label 
+                    x:Name="lblApellido" Text="Apellido" FontSize="Micro" IsVisible="True"
+                />
+
+                <Entry 
+                    x:Name="txtApellido"
+                    Placeholder="Apellido Repartidor"
+                    MaxLength="30" 
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand"
+                />
+
+                <Label 
+                    x:Name="lblDocumento" Text="Número de Documento" FontSize="Micro" IsVisible="True"
+                />
+
+                <Entry 
+                    x:Name="txtDocumento"
+                    Placeholder="Número de Documento"
+                    MaxLength="15" 
+                    FontSize="Body"
+                    Keyboard="Numeric"
+                    HorizontalOptions="FillAndExpand"
+                />
+
+                <Label 
+                    x:Name="lblDireccion" Text="Dirección" FontSize="Micro" IsVisible="True"
+                />
+
+                <Entry 
+                    x:Name="txtDireccion"
+                    Placeholder="Dirección"
+                    MaxLength="50" 
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand"
+                />
+
+                <Label 
+                    x:Name="lblTelefono" Text="Teléfono" FontSize="Micro" IsVisible="True"
+                />
+
+                <Entry 
+                    x:Name="txtTelefono"
+                    Placeholder="Teléfono" 
+                    MaxLength="11" 
+                    Keyboard="Telephone"
+                    HorizontalOptions="FillAndExpand" 
+                    FontSize="Body"
+                />
+
+                <Label 
+                    x:Name="lblCorreoElectronico" Text="Correo Electronico" FontSize="Micro" IsVisible="True"
+                />
+
+                <Entry 
+                    x:Name="txtEmail"
+                    Placeholder="Correo Electronico" 
+                    MaxLength="40" 
+                    ClearButtonVisibility="Never" 
+                    Keyboard="Email"
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand" 
+                />
+                
+                <Label 
+                    x:Name="lblObservaciones" Text="Observaciones" FontSize="Micro" IsVisible="True"
+                />
+
+                <Entry 
+                    x:Name="txtObservaciones"
+                    Placeholder="Observaciones" 
+                    MaxLength="150" 
+                    Keyboard="Chat"
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand" 
+                />
+
+                <Button 
+                    x:Name="btnGuardar"
+                    Clicked="btnGuardar_Clicked"
+                    Text="Guardar Empresa" 
+                    TextColor="White"
+                    BackgroundColor="DarkSlateGray"
+                    HorizontalOptions="FillAndExpand"
+                    CornerRadius="5"
+                />
+
+                <Entry 
+                    x:Name="txtespacio"
+                    FontSize="Body"
+                    HorizontalOptions="Center" 
+                    IsEnabled="False"
+                    BackgroundColor="Transparent"
+                    PlaceholderColor="Transparent"
+                    TextColor="Transparent"
+                />
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>

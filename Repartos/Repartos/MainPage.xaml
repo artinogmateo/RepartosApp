@@ -2,11 +2,113 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Repartos"
-             x:Class="Repartos.MainPage">
+             x:Class="Repartos.MainPage"             
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core">
 
-    <StackLayout Margin="0,30,0,0">
-        <Image Source="dogs.jpg" WidthRequest="200" HeightRequest="200"/>
+    <StackLayout Padding="0,0,0,0" BackgroundColor="#CFD8DC" >
 
+        <Label 
+            x:Name="lblTitulo" 
+            Text="REPARTOS" 
+            TextColor="WhiteSmoke" 
+            Margin="15,15,0,0" 
+            FontSize="Title"
+            HorizontalTextAlignment="Center">
+        </Label>
+
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"></RowDefinition>
+                <RowDefinition Height="20*"></RowDefinition>
+                <RowDefinition Height="20*"></RowDefinition>
+                <RowDefinition Height="20*"></RowDefinition>
+                <RowDefinition Height="20*"></RowDefinition>
+                <RowDefinition Height="10*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Button
+                x:Name="btnGestionarCampania"
+                Clicked="btnGestionarCampania_Clicked"
+                android:Button.UseDefaultPadding="true"
+                android:Button.UseDefaultShadow="true"
+                Margin="0,0,0,0"
+                ContentLayout="top,10"
+                Text="Gestionar Campaña"
+                HorizontalOptions="StartAndExpand"
+                WidthRequest="500"
+                BorderWidth="3"
+                BorderColor="#64A89D"
+                TextColor="White"
+                BackgroundColor="CadetBlue"
+                CornerRadius="7"
+                FontSize="15"
+                Grid.Row="1">
+            </Button>
+
+            <Button
+                 x:Name="btnEmpresas"
+                 Clicked="btnEmpresas_Clicked"
+                 BorderWidth="3"
+                 BorderColor="#64A89D"
+                 FontSize="15"
+                 HorizontalOptions="StartAndExpand"
+                 WidthRequest="500"
+                 android:Button.UseDefaultPadding="true"
+                 android:Button.UseDefaultShadow="true"
+                 ContentLayout="top,0"
+                 Margin="0,0,0,0"
+                 Text="EMPRESAS"
+                 TextColor="White"
+                 BackgroundColor="CadetBlue"
+                 CornerRadius="5"
+                 Grid.Row="2">
+            </Button>
+
+            <Button
+                 x:Name="btnRepartidores"
+                 Clicked="btnRepartidores_Clicked"
+                 BorderWidth="3"
+                 BorderColor="#64A89D"
+                 FontSize="15"
+                 android:Button.UseDefaultPadding="true"
+                 android:Button.UseDefaultShadow="true"
+                 ContentLayout="top,0"
+                 Margin="0,0,0,0"
+                 Text="REPARTIDORES"
+                 TextColor="White"
+                 BackgroundColor="CadetBlue"
+                 CornerRadius="5"
+                 HorizontalOptions="StartAndExpand"
+                 WidthRequest="500"
+                 Grid.Row="3">
+            </Button>
+
+            <Button
+                 x:Name="btnHistorialRepartos"
+                 Clicked="btnHistorialRepartos_Clicked"
+                 BorderWidth="3"
+                 BorderColor="#64A89D"
+                 FontSize="Subtitle"
+                 android:Button.UseDefaultPadding="true"
+                 android:Button.UseDefaultShadow="true"
+                 ContentLayout="top,0"
+                 Margin="0,0,0,0"
+                 Text="Historial de Repartos"
+                 TextColor="White"
+                 BackgroundColor="CadetBlue"
+                 CornerRadius="5"
+                 WidthRequest="1"
+                 Grid.Row="4">
+            </Button>
+
+        </Grid>
+
+        <Button Text="Cerrar Sesión" x:Name="btnCerrarSesion" CornerRadius="8" HorizontalOptions="CenterAndExpand" Margin="0,0,0,30"></Button>
+
+    </StackLayout>
+
+    <!--<StackLayout Margin="0,30,0,0">
 
         <Button Text="Ver repartidores" HorizontalOptions="FillAndExpand" BackgroundColor="Yellow"
                 x:Name="btnmostrar"/>
@@ -14,19 +116,23 @@
         <Button Text="Nuevo repartidor" HorizontalOptions="FillAndExpand" BackgroundColor="Yellow"
                 x:Name="btnnuevo"/>
 
-        <!--<StackLayout Orientation="Horizontal" BackgroundColor="Orange">-->
+        --><!--<StackLayout Orientation="Horizontal" BackgroundColor="Orange">--><!--
             <Label Text="Buscar por documento de repartidor" />
             
             <Entry x:Name="cajacodigo" HorizontalOptions="FillAndExpand"/>
 
-        <!--</StackLayout>-->
+        --><!--</StackLayout>--><!--
 
         <Button Text="Eliminar repartidor" x:Name="btneliminar" 
                 />
 
         <Button Text="Modificar datos" x:Name="btnmodificar" />
 
+        
+        --><!--    PRUEBAS DE REDIRECCIONAMIENTO AL MASTER HAMBURGUESA    --><!--
 
-    </StackLayout>
+        <Button Text="HAMBURGUESA" x:Name="btnHamburguesa" />
+    
+    </StackLayout>-->
 
 </ContentPage>

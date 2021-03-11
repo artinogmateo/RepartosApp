@@ -18,26 +18,40 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Views\AgregarRepartidor.xaml">
+    <EmbeddedResource Update="MenuHamburguesa.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\EliminarRepartidor.xaml">
+    <EmbeddedResource Update="Views\Empresas\ABMEmpresa.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\ModificarRepartidor.xaml">
+    <EmbeddedResource Update="Views\Empresas\Empresas.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\Repartidores.xaml">
+    <EmbeddedResource Update="Views\Empresas\NuevaEmpresa.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\Repartidores\Repartidor.xaml">
+    <EmbeddedResource Update="Views\Repartidores\ABMRepartidor.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Repartidores\NuevoRepartidor.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Repartidores\Repartidores.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Empresas\" />
+    <Folder Include="Views\Campanias\Repartos\" />
     <Folder Include="Views\Mapas\" />
-    <Folder Include="Views\Campanias\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Mono.Android">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v9.0\Mono.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform.Android">
+      <HintPath>..\..\..\..\..\..\..\Microsoft\Xamarin\NuGet\xamarin.forms\4.8.0.1451\lib\MonoAndroid90\Xamarin.Forms.Platform.Android.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

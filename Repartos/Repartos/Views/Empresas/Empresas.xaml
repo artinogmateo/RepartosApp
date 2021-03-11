@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Repartos.Views.Empresas.Empresas">
+
+    <AbsoluteLayout BackgroundColor="#CFD8DC">
+        
+        <StackLayout>
+
+        </StackLayout>
+        
+        <ScrollView 
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="SizeProportional">
+
+            <StackLayout Margin="10,10,5,10">
+
+                <Label 
+                    Text="EMPRESAS"
+                    FontSize="30"
+                    TextColor="#1F618D"
+                    FontAttributes="Bold"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center"
+                    AbsoluteLayout.LayoutBounds="5,5,0,0"
+                    AbsoluteLayout.LayoutFlags="SizeProportional" 
+                    Padding="0,30,0,0"
+                />
+
+                <Label 
+                    x:Name="lblMensaje"
+                    IsVisible="False"
+                />
+                
+                <ListView 
+                    x:Name="listaEmpresas"
+                    ItemTapped="listaEmpresas_ItemTapped"
+                    
+                    SeparatorColor="Black"
+                    HasUnevenRows="True"
+                    Margin="0,0,0,0"
+                    BackgroundColor="Transparent">
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell Tapped="ViewCell_Tapped" IsContextActionsLegacyModeEnabled="True" >
+                                
+                                <ViewCell.ContextActions>
+                                    <MenuItem
+                                        x:Name="actModificar"
+                                        Text="Modificar"
+                                        CommandParameter="{Binding IdEmpresa}"
+                                        Clicked="actModificar_Clicked"
+                                    />
+                                    <MenuItem
+                                        x:Name="actBaja"
+                                        Text="Dar de baja"
+                                        CommandParameter="{Binding IdEmpresa}"
+                                        Clicked="actBaja_Clicked"
+                                    />
+                                </ViewCell.ContextActions>
+                                
+                                <Grid
+                                    BackgroundColor="#BCBFBF" 
+                                    Padding="0,0,0,0" 
+                                    RowSpacing="2" 
+                                    Margin="0,0,0,0" >
+                                    
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="40*"></RowDefinition>
+                                        <RowDefinition Height="35*"></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <Label 
+                                        Text="{Binding Nombre}" 
+                                        HorizontalOptions="StartAndExpand"
+                                        Grid.Row="0" 
+                                        FontSize="Medium"
+                                        Padding="15,0,0,0" 
+                                        VerticalOptions="CenterAndExpand"
+                                    />
+
+                                    <Label 
+                                        Text="{Binding TelefonoPrimario}"
+                                        HorizontalOptions="StartAndExpand"
+                                        FontSize="Small"
+                                        Margin="0,0,5,0"
+                                        Padding="15,0,0,0" 
+                                        Grid.Row="1" 
+                                    />
+
+                                </Grid>
+                            </ViewCell>
+                            
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+                </ListView>
+            </StackLayout>
+        </ScrollView>
+        
+        <ImageButton
+            x:Name="btnNuevaEmpresa"
+            AbsoluteLayout.LayoutBounds="0.95,0.95,80,80"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            BackgroundColor="DarkSlateGray"
+            Opacity="0.7"
+            CornerRadius="50"
+            HeightRequest="60"
+            WidthRequest="80"
+            Clicked="btnNuevaEmpresa_Clicked"
+        />
+        
+    </AbsoluteLayout>
+</ContentPage>

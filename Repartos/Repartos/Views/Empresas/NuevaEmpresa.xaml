@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:Repartos.ViewModels" 
+             x:Class="Repartos.Views.Empresas.NuevaEmpresa">
+    
+    <ContentPage.BindingContext>
+        <viewmodels:EmpresaViewModel/>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="#CFD8DC" Padding="35,5,35,0">
+                <Label 
+                    x:Name="lblTitulo"
+                    Text="Ingresar datos de la nueva Empresa"
+                    FontSize="Medium"
+                    HorizontalOptions="CenterAndExpand" 
+                    Padding="0,30,0,20"
+                />
+
+                <Label 
+                    x:Name="lblNombre" Text="Nombre" FontSize="Micro" IsVisible="False"
+                />
+                
+                <Entry 
+                    x:Name="txtNombre"
+                    Placeholder="Nombre Empresa"
+                    MaxLength="30" 
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand"
+                />
+                
+                <Label 
+                    x:Name="lblCuit" Text="CUIT" FontSize="Micro" IsVisible="False"
+                />
+
+                <Entry 
+                    x:Name="txtCuit"
+                    Placeholder="CUIT"
+                    MaxLength="15" 
+                    Keyboard="Numeric"
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand"
+                />
+
+                <Label 
+                    x:Name="lblDireccionRetiroFolletos" Text="Dirección de retiro de Folletos" FontSize="Micro" IsVisible="False"
+                />
+
+                <Entry 
+                    x:Name="txtDireccionRetiroFolletos"
+                    Placeholder="Dirección de retiro de Folletos"
+                    MaxLength="50" 
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand"
+                />
+
+                <Label 
+                    x:Name="lblDireccionDeCobro" Text="Dirección de Cobro" FontSize="Micro" IsVisible="False"
+                />
+
+                <Entry 
+                    x:Name="txtDireccionDeCobro"
+                    Placeholder="Dirección de Cobro"
+                    MaxLength="50" 
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand"
+                />
+
+                <Label 
+                    x:Name="lblTelefonoPrincipal" Text="Telefono Principal" FontSize="Micro" IsVisible="False"
+                />
+
+                <Entry 
+                    x:Name="txtTelefonoPrincipal"
+                    Placeholder="Telefono Principal" 
+                    MaxLength="11" 
+                    Keyboard="Telephone"
+                    HorizontalOptions="FillAndExpand" 
+                    FontSize="Body"
+                    Focused="txtTelefonoPrincipal_Focused" Unfocused="txtTelefonoPrincipal_Unfocused" 
+                />
+
+                <Label 
+                    x:Name="lblTelefonoSecundario" Text="Telefono Secundario" FontSize="Micro" IsVisible="False"
+                />
+
+                <Entry 
+                    x:Name="txtTelefonoSecundario"
+                    Placeholder="Telefono Secundario" 
+                    MaxLength="11" 
+                    Keyboard="Telephone"
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand" 
+                />
+
+                <Label 
+                    x:Name="lblWhatsApp" Text="WhatsApp" FontSize="Micro" IsVisible="False"
+                />
+
+                <Entry 
+                    x:Name="txtWhatsApp"
+                    Placeholder="WhatsApp" 
+                    MaxLength="20" 
+                    Keyboard="Telephone"
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand" 
+                />
+
+                <Label 
+                    x:Name="lblEmail" Text="E-mail" FontSize="Micro" IsVisible="False"
+                />
+                
+                <Entry 
+                    x:Name="txtEmail"
+                    Placeholder="E-mail" 
+                    MaxLength="40" 
+                    ClearButtonVisibility="Never" 
+                    Keyboard="Email"
+                    FontSize="Body"
+                    HorizontalOptions="FillAndExpand" 
+                />
+
+                <Button 
+                    x:Name="btnGuardar"
+                    Clicked="btnGuardar_Clicked"
+                    Text="Guardar Empresa" 
+                    TextColor="White"
+                    BackgroundColor="DarkSlateGray"
+                    HorizontalOptions="FillAndExpand"
+                    CornerRadius="5"
+                />
+
+                <Entry 
+                    x:Name="txtespacio"
+                    FontSize="Body"
+                    HorizontalOptions="Center" 
+                    IsEnabled="False"
+                    BackgroundColor="Transparent"
+                    PlaceholderColor="Transparent"
+                    TextColor="Transparent"
+                />
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+    
+</ContentPage>
