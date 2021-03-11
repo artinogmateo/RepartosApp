@@ -10,6 +10,9 @@ namespace Repartos.iOS
 {
     public class SqLiteClient : IDataBase
     {
+        /// <summary>
+        /// Metodo que busca la cadena de conexion creada en el dispositivo    -    si no la encuentra realiza la cracion de la misma.
+        /// </summary>
         public SQLiteConnection GetConnection()
         {
             String bbddfile = "REPARTOSapp.db";
